@@ -1,3 +1,3 @@
 # PayFeathers
-<button onclick="window.location.href='https://w3docs.com';">
+<button onclick="https://trollzonly.github.io/Cinfo.github.io/';">
       Click Here for caleb
